@@ -94,7 +94,7 @@ $routes->get('/faqs', 'Page::faqs');
    berikut
    `php spark routes`
 
-![img.10](gambar/10.png)
+![img.10](gambar/16.png)
 
 4. Selanjutnya coba akses route yang telah dibuat dengan mengakses alamat url
 
